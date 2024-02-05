@@ -32,18 +32,18 @@ const Contact = () => {
                             </div>
 
                             {/* second mode */}
-                            <div className="flexColCenter mode">
+                            {/* <div className="flexColCenter mode">
                                 <div className="flexStart">
                                     <div className="flexCenter icon">
                                         <BsFillChatDotsFill size={25}/>
                                     </div>
                                     <div className="flexColStart detail">
                                         <span className='primaryText'>Chat</span>
-                                        {/* <span className='secondaryText'>+233 54 800 4804</span> */}
+                                        <span className='secondaryText'>+233 54 800 4804</span>
                                     </div>
                                 </div>
                                 <div className="flexCenter button"><a href='tel:+233257888703'>Chat Now</a></div>
-                            </div>
+                            </div> */}
                         </div>
 
                         {/* second row */}
@@ -72,7 +72,7 @@ const Contact = () => {
                                         {/* <span className='secondaryText'>002 000 0000</span> */}
                                     </div>
                                 </div>
-                                <div className="flexCenter button"><a href="sms:+233257888703?body=Hello%20there!">Send SMS</a></div>
+                                <div className="flexCenter button"><a href="sms:+233548004804?body=Emmakad%20here!">Send SMS</a></div>
                             </div>
                         </div>
                     </div>

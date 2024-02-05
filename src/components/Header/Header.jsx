@@ -28,7 +28,7 @@ const Header = () => {
                     <a href="#contact">Contact Us</a>
                     <a href="#getStarted">Get Started</a>
                     <button className='button' >
-                    <a href="https://wa.me/0548004804">WhatsApp</a>
+                    <a href="https://wa.me/+233548004804" target="_blank">WhatsApp</a>
                     </button>
                 </div>
             </OutsideClickHandler>
