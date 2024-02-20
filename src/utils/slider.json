@@ -1,25 +1,25 @@
 [
   {
-    "name": "Gold, front view",
-    "price": "47,043",
-    "detail": "Kasoa",
+    "name": "Obom Road, Kasoa - Behind Ballon Hotel",
+    "price": "140,000",
+    "detail": "FRONT VIEW",
     "image": "./r1.png"
   },
   {
-    "name": "Gold, inside 1",
-    "price": "47,043",
+    "name": "Inside 1",
+    "price": "140,000",
     "detail": "",
     "image": "./r2.png"
   },
   {
-    "name": "Gold, inside 2",
-    "price": "47,043",
+    "name": "Inside 2",
+    "price": "140,000",
     "detail": "",
     "image": "./r3.png"
   },
   {
-    "name": "Gold, back view",
-    "price": "47,043",
+    "name": "Back view",
+    "price": "140,000",
     "detail": "",
     "image": "./r4.png"
   },
