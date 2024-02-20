@@ -36,11 +36,11 @@ const Hero = () => {
                     <span className='secondaryText'>and development of the local real estate market.</span>
                 </div>
 
-                <div className="flexCenter search-bar">
+                {/* <div className="flexCenter search-bar">
                     <HiLocationMarker color="var(--blue)" size={25}/>
                     <input type='text' />
                     <button className='button'>Search</button>
-                </div>
+                </div> */}
 
                 <div className="flexCenter stats">
                     <div className="flexColCenter stat">
@@ -59,13 +59,13 @@ const Hero = () => {
                         <span className='secondaryText'>Happy Customers</span>
                     </div>
 
-                    <div className="flexColCenter stat">
+                    {/* <div className="flexColCenter stat">
                         <span>
                             <CountUp end={12}/>
                             <span>+</span>
                         </span>
                         <span className='secondaryText'>Award Winning</span>
-                    </div>
+                    </div> */}
                 </div>
             </div>
             {/* right side */}

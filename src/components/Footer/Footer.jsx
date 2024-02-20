@@ -8,7 +8,7 @@ const Footer = () => {
 
             {/* left side */}
             <div className="flexColStart f-left">
-                <img src='./logo2.png' alt='' width={200} />
+                <img src='./logo2.png' alt='' width={300} />
 
                 <span className='primaryText'>Mission Statement</span>
                 <span className="secondaryText">Emmakad Real Estate Agency is dedicated <br />
