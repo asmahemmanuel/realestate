@@ -24,15 +24,39 @@
     "image": "./r4.png"
   },
   {
-    "name": "New",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "name": "Short Let Property in Kasoa (1)",
+    "price": "33 (GHC 400.00)",
+    "detail": "1 BEDROOM SELF CONTAINED - FULLY FURNISHED APARTMENT 1",
     "image": "./r5.png"
   },
   {
-    "name": "New",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "name": "(2)",
+    "price": "33 (GHC 400.00)",
+    "detail": "1 BEDROOM SELF CONTAINED - FULLY FURNISHED APARTMENT 2",
     "image": "./r6.png"
+  },
+  {
+    "name": "(3)",
+    "price": "33 (GHC 400.00)",
+    "detail": "1 BEDROOM SELF CONTAINED - FULLY FURNISHED APARTMENT 3",
+    "image": "./r7.png"
+  },
+  {
+    "name": "(4)",
+    "price": "33 (GHC 400.00)",
+    "detail": "1 BEDROOM SELF CONTAINED - FULLY FURNISHED APARTMENT 4",
+    "image": "./r8.png"
+  },
+  {
+    "name": "(5)",
+    "price": "33 (GHC 400.00)",
+    "detail": "1 BEDROOM SELF CONTAINED - FULLY FURNISHED APARTMENT 5",
+    "image": "./r9.png"
+  },
+  {
+    "name": "(6)",
+    "price": "33 (GHC 400.00)",
+    "detail": "1 BEDROOM SELF CONTAINED - FULLY FURNISHED APARTMENT 6",
+    "image": "./r10.png"
   }
 ]

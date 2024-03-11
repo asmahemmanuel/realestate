@@ -19,6 +19,7 @@
 .r-card>img{
     width: 100%;
     max-width: 15rem;
+    border-radius: 15%;
 }
 
 .r-card>:nth-child(2)
@@ -38,9 +39,9 @@
     width: 15rem;
 }
 
-/* .r-card:hover{
+.r-card:hover{
     scale: 1.025;
-    cursor: pointer;
+    /* cursor: pointer; */
     background: linear-gradient(
         180deg,
         rgba(255, 255, 255, 0) 0%,
@@ -48,7 +49,7 @@
     );
 
     box-shadow: 0px 72px 49px -51px (136, 160, 255, 0.21);;
-} */
+}
 
 .swiper-horizontal{
     overflow: visible;
