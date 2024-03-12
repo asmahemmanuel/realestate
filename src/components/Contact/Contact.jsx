@@ -48,18 +48,18 @@ const Contact = () => {
 
                         {/* second row */}
                         <div className="flexStart row">
-                            <div className="flexColCenter mode">
+                            {/* <div className="flexColCenter mode">
                                 <div className="flexStart">
                                     <div className="flexCenter icon">
                                         <BsFillChatDotsFill size={25}/>
                                     </div>
                                     <div className="flexColStart detail">
                                         <span className='primaryText'>Video Call</span>
-                                        {/* <span className='secondaryText'>002 000 0000</span> */}
+                                        <span className='secondaryText'>002 000 0000</span>
                                     </div>
                                 </div>
                                 <div className="flexCenter button"><a href="https://zoom.us/j/your-meeting-id">Zoom Us</a></div>
-                            </div>
+                            </div> */}
 
                             {/* fourth mode */}
                             <div className="flexColCenter mode">
