@@ -21,7 +21,7 @@ const Contact = () => {
                             <div className="flexColCenter mode">
                                 <div className="flexStart">
                                     <div className="flexCenter icon">
-                                        <MdCall size={25}/>
+                                        <MdCall size={40}/>
                                     </div>
                                     <div className="flexColStart detail">
                                         <span className='primaryText'>Call</span>
@@ -65,7 +65,7 @@ const Contact = () => {
                             <div className="flexColCenter mode">
                                 <div className="flexStart">
                                     <div className="flexCenter icon">
-                                        <HiChatBubbleBottomCenter size={25}/>
+                                        <HiChatBubbleBottomCenter size={40}/>
                                     </div>
                                     <div className="flexColStart detail">
                                         <span className='primaryText'>Message</span>

@@ -7,7 +7,7 @@ import Value from './components/Value/Value';
 import Contact from './components/Contact/Contact';
 import GetStarted from './components/GetStarted/GetStarted';
 import Footer from './components/Footer/Footer';
-import "../sw";
+import OtherResidencies from './components/Others/OtherResidencies';
 function App() {
   return (
     <div className="App">
@@ -18,6 +18,7 @@ function App() {
       </div>
       <Companies/>
       <Residencies/>
+      <OtherResidencies/>
       <Value/>
       <Contact/>
       <GetStarted/>
