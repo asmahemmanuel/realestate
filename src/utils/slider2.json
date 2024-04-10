@@ -10,5 +10,35 @@
       "price": "",
       "detail": "",
       "image": "./em2.jpg"
+    },
+    {
+      "name": "Two bedroom self contained and four bedroom self contained (1)",
+      "price": "24,000.00 & 30,000.00 (respectively)",
+      "detail": "",
+      "image": "./em3.jpg"
+    },
+    {
+      "name": "(2)",
+      "price": "",
+      "detail": "",
+      "image": "./em4.jpg"
+    },
+    {
+      "name": "(3)",
+      "price": "",
+      "detail": "",
+      "image": "./em5.jpg"
+    },
+    {
+      "name": "(4)",
+      "price": "",
+      "detail": "",
+      "image": "./em6.jpg"
+    },
+    {
+      "name": "(5)",
+      "price": "",
+      "detail": "",
+      "image": "./em7.jpg"
     }
   ]

@@ -1,25 +1,25 @@
 [
   {
     "name": "Obom Road, Kasoa - Behind Ballon Hotel",
-    "price": "140,000",
+    "price": "140,000.00",
     "detail": "FRONT VIEW",
     "image": "./r1.png"
   },
   {
     "name": "Inside 1",
-    "price": "140,000",
+    "price": "",
     "detail": "",
     "image": "./r2.png"
   },
   {
     "name": "Inside 2",
-    "price": "140,000",
+    "price": "",
     "detail": "",
     "image": "./r3.png"
   },
   {
     "name": "Back view",
-    "price": "140,000",
+    "price": "",
     "detail": "",
     "image": "./r4.png"
   },
@@ -31,31 +31,31 @@
   },
   {
     "name": "(2)",
-    "price": "33 (GHC 400.00)",
+    "price": "",
     "detail": "1 BEDROOM SELF CONTAINED - FULLY FURNISHED APARTMENT 2",
     "image": "./r6.png"
   },
   {
     "name": "(3)",
-    "price": "33 (GHC 400.00)",
+    "price": "",
     "detail": "1 BEDROOM SELF CONTAINED - FULLY FURNISHED APARTMENT 3",
     "image": "./r7.png"
   },
   {
     "name": "(4)",
-    "price": "33 (GHC 400.00)",
+    "price": "",
     "detail": "1 BEDROOM SELF CONTAINED - FULLY FURNISHED APARTMENT 4",
     "image": "./r8.png"
   },
   {
     "name": "(5)",
-    "price": "33 (GHC 400.00)",
+    "price": "",
     "detail": "1 BEDROOM SELF CONTAINED - FULLY FURNISHED APARTMENT 5",
     "image": "./r9.png"
   },
   {
     "name": "(6)",
-    "price": "33 (GHC 400.00)",
+    "price": "",
     "detail": "1 BEDROOM SELF CONTAINED - FULLY FURNISHED APARTMENT 6",
     "image": "./r10.png"
   }
